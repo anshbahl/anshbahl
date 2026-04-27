@@ -30,7 +30,6 @@ I’m a C.S.E. student at LPU with a passion for building scalable systems and s
 
 ### 📊 My GitHub Stats
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshbahl&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshbahl&layout=compact&theme=tokyonight)
 
 ---
