@@ -7,6 +7,9 @@ I’m a C.S.E. student at LPU with a passion for building scalable systems and s
 ---
 
 ### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,py,java,react,nodejs,express,angular,mongodb,mysql,aws,firebase&theme=dark" />
+</p>
 
 | Category | Technologies |
 | :--- | :--- |
