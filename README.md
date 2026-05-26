@@ -61,7 +61,7 @@ class AnshBahl:
 > *Real-time player engagement at scale*
 
 - 🔥 Deployed a **scalable data platform** for live player tracking
-- ☁️ Cloud architecture: **Angular · Firebase · Node.js**
+- ☁️ Cloud architecture: **Firebase · Node.js**
 - 📡 Built APIs + data workflows → faster reporting
 - 🎯 Offline sync + user-centric performance tuning
 
