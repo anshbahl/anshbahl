@@ -17,7 +17,7 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshhbahl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshhbahl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-anshbahl.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://anshbahl.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anshbahl.in-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://anshbahl.in)
 [![Email](https://img.shields.io/badge/Email-anshhbahl@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshhbahl@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+91--7073959174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917073959174)
 
@@ -209,7 +209,7 @@ Shell access? Not without my permission.
 *Open to full-time roles, internships, and high-impact collaborations.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshhbahl)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshbahl.netlify.app)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshbahl.in)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshhbahl@gmail.com)
 
 ---
